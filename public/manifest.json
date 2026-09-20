@@ -1,0 +1,25 @@
+{
+  "name": "Decoding Tomorrow With Attharva",
+  "short_name": "DTWA",
+  "description": "Deep dives on AI tools, companies, and the trends shaping tomorrow — explained simply.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c1a",
+  "theme_color": "#080c1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/my_good_picture_for_pfp.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/my_good_picture_for_pfp.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "technology", "productivity"]
+}

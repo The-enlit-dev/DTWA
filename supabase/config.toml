@@ -1,0 +1,14 @@
+[functions.contact-notification]
+verify_jwt = false
+
+[functions.create-super-admin]
+verify_jwt = false
+
+[functions.newsletter-ai]
+verify_jwt = false
+
+[functions.send-scheduled-newsletters]
+verify_jwt = false
+
+[functions.ai-generate]
+verify_jwt = true
